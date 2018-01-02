@@ -1,0 +1,6 @@
+D:\TM1 App\Samples\DemoAppOne\DemoAppOne\bin\Debug\DemoAppOne.exe.config
+D:\TM1 App\Samples\DemoAppOne\DemoAppOne\bin\Debug\DemoAppOne.exe
+D:\TM1 App\Samples\DemoAppOne\DemoAppOne\bin\Debug\DemoAppOne.pdb
+D:\TM1 App\Samples\DemoAppOne\DemoAppOne\obj\Debug\DemoAppOne.csprojResolveAssemblyReference.cache
+D:\TM1 App\Samples\DemoAppOne\DemoAppOne\obj\Debug\DemoAppOne.exe
+D:\TM1 App\Samples\DemoAppOne\DemoAppOne\obj\Debug\DemoAppOne.pdb
